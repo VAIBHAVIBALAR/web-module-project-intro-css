@@ -108,7 +108,7 @@ blockquote, q {
     .left img{
         border-radius: 50%;
         width: 70%;
-        margin: 1% 9%;
+        margin-left: 10%;
         
     }
 
@@ -123,11 +123,10 @@ blockquote, q {
     }
     .right{
         width: 45%;
-        margin-left:3%;
+        margin-right:5%;
         position: absolute;
-         top: 30%;
+         top: 20%;
         text-align:center;
-        
     }
     .right div{
         position:absolute;
@@ -140,7 +139,8 @@ blockquote, q {
         background-image:url('assets/footer_img.jpg');
         background-repeat: no-repeat;
         background-size:cover;
-        background-position:top;
+        background-position:top center;
+        width: 100%;
     }
     .intro2 img{
         width: 10%;
